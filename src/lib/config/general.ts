@@ -63,6 +63,10 @@ export const header: HeaderConfig = {
       link: '/hello-world/elements',
       text: 'About Me',
     },
+    {
+      link: 'https://github.com/haranobuhardo',
+      text: 'Github',
+    },
   ],
 }
 
