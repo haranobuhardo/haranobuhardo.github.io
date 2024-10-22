@@ -10,6 +10,13 @@ export default {
   daisyui: { themes: theme.map(({ name }) => name) },
   plugins: [typography, daisyui],
   theme: {
+    screens: {
+      'sm': '640px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1024px',
+      '2xl': '1536px',
+    },
     extend: {
       typography: {
         DEFAULT: {
