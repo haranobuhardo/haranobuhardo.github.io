@@ -10,7 +10,7 @@ tags:
   - experience
 ---
 
-Perjalanan kali ini dimulai dengan trip to Brunei, yang ternyata menghadirkan pengalaman tak terduga. Kehebohan sudah terasa saat aku mencoba *check-in* untuk penerbanganku. Ternyata, untuk keperluan imigrasi, saya harus membeli tiket pulang juga. Sempat panik, namun akhirnya masalah tersebut dapat diatasi (walau aku harus menalangi dulu).  Selama menunggu waktu keberangkatan, dari jendela pesawat, aku bisa melihat sekilas betapa indahnya Brunei. Pemandangan itu memunculkan keinginan dalam hatiku untuk mengunjungi negara ini suatu hari nanti.
+Perjalanan kali ini dimulai dengan *trip to Brunei*, yang ternyata menghadirkan pengalaman tak terduga. Kehebohan sudah terasa saat aku mencoba *check-in* untuk penerbanganku. Ternyata, untuk keperluan imigrasi, saya harus membeli tiket pulang juga. Sempat panik, namun akhirnya masalah tersebut dapat diatasi (walau aku harus menalangi dulu).  Selama menunggu waktu keberangkatan, dari jendela pesawat, aku bisa melihat sekilas betapa indahnya Brunei. Pemandangan itu memunculkan keinginan dalam hatiku untuk mengunjungi negara ini suatu hari nanti.
 
 ![Brunei View from Top](/solo-trip-to-vietnam-part-1/cover.jpg)
 
