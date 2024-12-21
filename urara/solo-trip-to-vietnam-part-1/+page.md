@@ -12,7 +12,7 @@ tags:
 
 Perjalanan kali ini dimulai dengan *trip to Brunei*, yang ternyata menghadirkan pengalaman tak terduga. Kehebohan sudah terasa saat aku mencoba *check-in* untuk penerbanganku. Ternyata, untuk keperluan imigrasi, saya harus membeli tiket pulang juga. Sempat panik, namun akhirnya masalah tersebut dapat diatasi (walau aku harus menalangi dulu).  Selama menunggu waktu keberangkatan, dari jendela pesawat, aku bisa melihat sekilas betapa indahnya Brunei. Pemandangan itu memunculkan keinginan dalam hatiku untuk mengunjungi negara ini suatu hari nanti.
 
-![Brunei View from Top](/solo-trip-to-vietnam-part-1/cover.jpg)
+![Brunei View from Top](/solo-trip-to-vietnam-part-1/1.jpg)
 
 Awalnya, aku berpikir transit dua jam di Brunei cukup untuk menjelajahi sekitar. Namun, sepertinya waktu tersebut terlalu singkat. Alhasil, aku hanya menghabiskan waktu dengan observasi di dalam ruang tunggu penerbangan internasional, sambil menikmati segelas *ice coffee*. Sepertinya, nama minuman itu adalah *Ice Coffee Viral* dari Coffee & Tea Leaf. *Brand* Coffee & Tea Leaf memang cukup populer di sana.
 
