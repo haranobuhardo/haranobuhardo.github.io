@@ -8,7 +8,7 @@ export const site: SiteConfig = {
     status: '✍🏻',
   },
   description: 'Forked from SvelteKit/Urara',
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'haranobuhardo.github.io',
   lang: 'en-US',
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   subtitle: 'Personal Blog',

@@ -24,3 +24,6 @@ src/static
 urara.js
 
 .env
+
+# idk what is this, looks like temp files
+._*
