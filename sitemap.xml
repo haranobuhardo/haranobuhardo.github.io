@@ -7,47 +7,52 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://urara-demo.netlify.app</loc>
+      <loc>https://haranobuhardo.github.io</loc>
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/solo-trip-to-vietnam-part-1</loc>
+            <loc>https://haranobuhardo.github.io/solo-trip-to-vietnam-part-2</loc>
+            <lastmod>2025-03-04T00:00:00.000Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://haranobuhardo.github.io/solo-trip-to-vietnam-part-1</loc>
             <lastmod>2024-12-21T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/isi-sumur-migas</loc>
+            <loc>https://haranobuhardo.github.io/isi-sumur-migas</loc>
             <lastmod>2024-10-20T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hilang</loc>
-            <lastmod>2024-12-21T23:14:27.768Z</lastmod>
+            <loc>https://haranobuhardo.github.io/hilang</loc>
+            <lastmod>2025-03-09T10:15:03.885Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/turn-any-graph-or-chart-to-a-function</loc>
-            <lastmod>2024-12-21T23:14:27.804Z</lastmod>
+            <loc>https://haranobuhardo.github.io/turn-any-graph-or-chart-to-a-function</loc>
+            <lastmod>2025-03-09T10:15:03.918Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/saat-sadar</loc>
-            <lastmod>2024-12-21T23:14:27.792Z</lastmod>
+            <loc>https://haranobuhardo.github.io/saat-sadar</loc>
+            <lastmod>2025-03-09T10:15:03.904Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/am-i-different</loc>
-            <lastmod>2024-12-21T23:14:27.760Z</lastmod>
+            <loc>https://haranobuhardo.github.io/am-i-different</loc>
+            <lastmod>2025-03-09T10:15:03.879Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/how-to-calculate-dew-bubble-point-with-dwsim</loc>
-            <lastmod>2024-12-21T23:14:27.780Z</lastmod>
+            <loc>https://haranobuhardo.github.io/how-to-calculate-dew-bubble-point-with-dwsim</loc>
+            <lastmod>2025-03-09T10:15:03.894Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/is-someone-changing</loc>
-            <lastmod>2024-12-21T23:14:27.784Z</lastmod>
+            <loc>https://haranobuhardo.github.io/is-someone-changing</loc>
+            <lastmod>2025-03-09T10:15:03.897Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>

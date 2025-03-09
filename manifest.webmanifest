@@ -5,30 +5,30 @@
   "icons": [
     {
       "sizes": "192x192",
-      "src": "https://urara-demo.netlify.app/assets/logo@192.png",
+      "src": "https://haranobuhardo.github.io/assets/logo@192.png",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "sizes": "512x512",
-      "src": "https://urara-demo.netlify.app/assets/logo@512.png",
+      "src": "https://haranobuhardo.github.io/assets/logo@512.png",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "sizes": "192x192",
-      "src": "https://urara-demo.netlify.app/assets/logo@192.png",
+      "src": "https://haranobuhardo.github.io/assets/logo@192.png",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
       "sizes": "512x512",
-      "src": "https://urara-demo.netlify.app/assets/logo@512.png",
+      "src": "https://haranobuhardo.github.io/assets/logo@512.png",
       "type": "image/png",
       "purpose": "maskable"
     }
   ],
-  "id": "https://urara-demo.netlify.app/",
+  "id": "https://haranobuhardo.github.io/",
   "lang": "en-US",
   "name": "Hardo's Blog",
   "orientation": "portrait",
